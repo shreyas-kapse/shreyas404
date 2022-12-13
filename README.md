@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **App Development and Blockchain Development**
 
--👀 I’m interested in App development,Blockchain,DataBase,Linux
+- 👀 I’m interested in App development,Blockchain,DataBase,Linux
 
 - 💬 Ask me about **JAVA,C++,C,MYSQL**
 
